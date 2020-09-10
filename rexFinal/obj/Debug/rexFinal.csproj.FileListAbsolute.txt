@@ -1,0 +1,11 @@
+C:\Users\elton\Desktop\rexFinal\rexFinal\bin\Debug\rexFinal.exe.config
+C:\Users\elton\Desktop\rexFinal\rexFinal\bin\Debug\rexFinal.exe
+C:\Users\elton\Desktop\rexFinal\rexFinal\bin\Debug\rexFinal.pdb
+C:\Users\elton\Desktop\rexFinal\rexFinal\obj\Debug\rexFinal.Form1.resources
+C:\Users\elton\Desktop\rexFinal\rexFinal\obj\Debug\rexFinal.Properties.Resources.resources
+C:\Users\elton\Desktop\rexFinal\rexFinal\obj\Debug\rexFinal.csproj.GenerateResource.cache
+C:\Users\elton\Desktop\rexFinal\rexFinal\obj\Debug\rexFinal.csproj.CoreCompileInputs.cache
+C:\Users\elton\Desktop\rexFinal\rexFinal\obj\Debug\rexFinal.exe
+C:\Users\elton\Desktop\rexFinal\rexFinal\obj\Debug\rexFinal.pdb
+C:\Users\elton\Desktop\rexFinal\rexFinal\obj\Debug\rexFinal.csprojAssemblyReference.cache
+C:\Users\elton\Desktop\rexFinal\rexFinal\obj\Debug\rexFinal.Portada.resources
